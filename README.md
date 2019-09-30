@@ -15,3 +15,6 @@ Database_name = Messender
 Database_port = 5432
 
 Qualquer usuário pode criar um novo usuário, utilizando o painel de criação.
+
+
+Veja as imagens do projeto na pasta imagens. 
